@@ -1,4 +1,4 @@
-# THE MACACHOR CANON – FINAL SUBMISSION
+[# THE MACACHOR CANON – FINAL SUBMISSION
 
 ## Ontological Framework for Structural Compression
 
@@ -12,7 +12,7 @@ https://scalar.macachor.org/
 
 **Document Version:** 1.0  
 **Date:** 2026  
-**DOI:** To be assigned by Zenodo  
+**DOI:**   https://doi.org/10.5281/zenodo.22681894)
 
 ---
 
@@ -33,7 +33,7 @@ https://scalar.macachor.org/
 
 - **Status:** Immutable axiom
 - **Justification:** Energy is not a separate entity—it is the dynamic aspect of structure. This is a structural identity, not a physical measurement.
-
+](https://doi.org/10.5281/zenodo.22681894)
 ---
 
 ### AXIOM 3 – The Primitive Distinction
